@@ -1,0 +1,4 @@
+# Exclude all Python files from GitHub Language Statistics
+*.py linguist-detectable=false
+__pycache__/ linguist-detectable=false
+database.json linguist-detectable=false
